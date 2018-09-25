@@ -1,3 +1,4 @@
 <?php 
-	echo("Sendi Dian Hadiwijaya");
+	$nama = "Sendi Dian Hadiwijayaa";
+	echo($nama);
 ?>
